@@ -5,6 +5,8 @@ https://docs.google.com/document/d/16HHOfZF09hZ698c8shnknklwPLFtpeegve98UdkvR28/
 ### Certificados do Curso:
 ### Fundamentos do Suporte Técnico
 #### https://www.coursera.org/account/accomplishments/certificate/ESBQ378WS3C6
+### Estrutura e Funcionamento das Redes de Computadores
+#### https://coursera.org/share/5f230e790306181f7fb6318e4e698fc5
 
 ## Curso de Fundamentos do design da experiência do usuário (UX)
 https://docs.google.com/document/d/1deEG4DvhNML6diu1497jSsTC9To8xWVJ8rGF0xT9FUc/edit?usp=sharing
@@ -23,6 +25,8 @@ https://docs.google.com/document/d/1FH_llcXABWVl7OYkQr7HlJKlF3QBturofcNYP6uGxl0/
 ### Certificados do Curso:
 ### Fundamentos: dados, dados, em todos os lugares
 #### https://coursera.org/share/e63e5fee066024628069791f578dfbfd
+### Fazer perguntas para tomar decisões com base em dados
+####  https://coursera.org/share/9f543c66fb2638fd7bf7eb15987d639e
 
 # Microsoft
 ## SRE
