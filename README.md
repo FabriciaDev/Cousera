@@ -1,11 +1,11 @@
 # Coursera
 Repositorios com as anotações dos cursos promovidos pelo Google Learning Program no Cousera
-## Curso de Suporte de TI do Google
+## **Curso de Suporte de TI do Google**
 https://docs.google.com/document/d/16HHOfZF09hZ698c8shnknklwPLFtpeegve98UdkvR28/edit?usp=sharing
 ### Certificados do Curso:
 ### Fundamentos do Suporte Técnico
 #### https://www.coursera.org/account/accomplishments/certificate/ESBQ378WS3C6
-### Estrutura e Funcionamento das Redes de Computadores
+### *Estrutura e Funcionamento das Redes de Computadores*
 #### https://coursera.org/share/5f230e790306181f7fb6318e4e698fc5
 
 ## Curso de Fundamentos do design da experiência do usuário (UX)
