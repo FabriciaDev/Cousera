@@ -1,4 +1,4 @@
-# **Coursera**
+# ** Coursera **
 Repositorios com as anotações dos cursos promovidos pelo Google Learning Program no Cousera
 
 ## **Curso de Suporte de TI do Google**
