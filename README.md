@@ -1,7 +1,7 @@
 # **Coursera**
 Repositorios com as anotações dos cursos promovidos pelo Google Learning Program no Cousera
 
-## **Curso de Suporte de TI do Google**
+# Curso de Suporte de TI do Google
 
 ## Fundamentos do Suporte Técnico
 ### Certificado do Curso:
